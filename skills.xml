@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SKILLS>
+<S1>HTTP</S1>
+<S2>JSON_XML</S2>
+<S3>API Postman JS autotets API</S3>
+<S4>Removing and reading logs from an external server</S4>
+<S5>Sniffing http web traffic through Charles and Fiddler</S5>
+<S6>Dev Tools Web Browsers</S6>
+<S7>VPN</S7>
+<S8>Mobile testing</S8>
+<S9>iOS Android guidlines</S9>
+<S10>Assembly IOS applications on XCode</S10>
+<S11>Assembly Android applications on Android Studio</S11>
+<S12>ADB</S12>
+<S13>proxy and vpn on iOS and Android</S13>
+<S14>Charles and Fiddler on iOS and Android</S14>
+<S15>terminal Linux</S15>
+<S16>Basics bash scripting automation of routine tasks</S16>
+<S17>SQL Create Delete Drop Insert Into Select From Where Join</S17>
+<S18>Postgres</S18>
+<S19>Redis</S19>
+<S20>Stress Testing Jmeter</S20>
+<S21>Scrum</S21>
+<S22>Python</S22>
+</SKILLS>
