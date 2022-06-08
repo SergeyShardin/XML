@@ -9,6 +9,6 @@
 <Steps_to_reproduce>paste “12345678” into ZIP filed,
 for example by creating a txt file with 12345678 string, copying it from there and pasting into the field</Steps_to_reproduce>
 <Expected_result>The ZIP field only accepts the first 5 digits</Expected_result>
-<Actual rezult>The ZIP field accepts the All 8 digits</Actual result>
+<Actual_result>The ZIP field accepts the All 8 digits</Actual_result>
 <Telegram_nickname>"@Sergey SH"</Telegram_nickname>
 </BUG_REPORT>
